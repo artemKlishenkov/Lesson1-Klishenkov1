@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "ru.mirea.klishenkovaai.layouttype"
+    namespace = "ru.mirea.klishenkovai.layouttype"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "ru.mirea.klishenkovaai.layouttype"
+        applicationId = "ru.mirea.klishenkovai.layouttype"
         minSdk = 26
         targetSdk = 35
         versionCode = 1
