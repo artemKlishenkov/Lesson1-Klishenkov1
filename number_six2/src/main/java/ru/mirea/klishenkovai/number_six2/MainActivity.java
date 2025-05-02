@@ -1,4 +1,4 @@
-package ru.mirea.klishenkovaai.number_six2;
+package ru.mirea.klishenkovai.number_six2;
 
 import android.os.Bundle;
 
