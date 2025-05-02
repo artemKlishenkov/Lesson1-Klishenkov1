@@ -1,4 +1,4 @@
-package ru.mirea.klishenkovaai.buttonclicker;
+package ru.mirea.klishenkovai.buttonclicker;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("ru.mirea.klishenkovaai.buttonclicker", appContext.getPackageName());
+        assertEquals("ru.mirea.klishenkovai.buttonclicker", appContext.getPackageName());
     }
 }
