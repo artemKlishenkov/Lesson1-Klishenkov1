@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "ru.mirea.KlishenkovaAI.lesson1"
+    namespace = "ru.mirea.KlishenkovAI.lesson1"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "ru.mirea.KlishenkovaAI.lesson1"
+        applicationId = "ru.mirea.KlishenkovAI.lesson1"
         minSdk = 26
         targetSdk = 35
         versionCode = 1
