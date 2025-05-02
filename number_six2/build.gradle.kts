@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "ru.mirea.klishenkovaai.number_six2"
+    namespace = "ru.mirea.klishenkovai.number_six2"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "ru.mirea.klishenkovaai.number_six2"
+        applicationId = "ru.mirea.klishenkovai.number_six2"
         minSdk = 26
         targetSdk = 35
         versionCode = 1
