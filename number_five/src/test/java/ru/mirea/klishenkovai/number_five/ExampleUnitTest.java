@@ -1,4 +1,4 @@
-package ru.mirea.klishenkovaai.number_five;
+package ru.mirea.klishenkovai.number_five;
 
 import org.junit.Test;
 
