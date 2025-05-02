@@ -1,4 +1,4 @@
-package ru.mirea.klishenkovaai.control_lesson1;
+package ru.mirea.klishenkovai.control_lesson1;
 
 import android.os.Bundle;
 
