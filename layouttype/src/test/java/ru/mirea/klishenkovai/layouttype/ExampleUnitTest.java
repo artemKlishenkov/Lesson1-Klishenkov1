@@ -1,4 +1,4 @@
-package ru.mirea.klishenkovaai.layouttype;
+package ru.mirea.klishenkovai.layouttype;
 
 import org.junit.Test;
 
