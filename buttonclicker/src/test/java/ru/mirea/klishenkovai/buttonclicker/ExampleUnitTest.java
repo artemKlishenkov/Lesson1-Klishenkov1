@@ -1,4 +1,4 @@
-package ru.mirea.klishenkovaai.buttonclicker;
+package ru.mirea.klishenkovai.buttonclicker;
 
 import org.junit.Test;
 
