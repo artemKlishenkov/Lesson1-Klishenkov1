@@ -1,4 +1,4 @@
-package ru.mirea.KlishenkovaAI.lesson1;
+package ru.mirea.KlishenkovAI.lesson1;
 
 import android.os.Bundle;
 
