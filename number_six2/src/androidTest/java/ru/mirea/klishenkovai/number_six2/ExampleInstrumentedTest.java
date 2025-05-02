@@ -1,4 +1,4 @@
-package ru.mirea.klishenkovaai.number_six2;
+package ru.mirea.klishenkovai.number_six2;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("ru.mirea.klishenkovaai.number_six2", appContext.getPackageName());
+        assertEquals("ru.mirea.klishenkovai.number_six2", appContext.getPackageName());
     }
 }
